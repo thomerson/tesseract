@@ -3,3 +3,6 @@
 ################################################################################
 
 /tesseract.demo/.vs/tesseract.demo/v15
+/tesseract.demo/packages
+/tesseract.demo/tesseract.demo/bin/Debug
+/tesseract.demo/tesseract.demo/obj/Debug
